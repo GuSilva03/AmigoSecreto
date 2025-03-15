@@ -44,13 +44,7 @@ Um projeto simples para gerenciar e sortear amigos secretos. Ideal para festas, 
 
 ---
 
-## Exemplos 🖼️
 
-### Tela Inicial
-![Tela Inicial](screenshots/tela-inicial.png)
-
-### Resultado do Sorteio
-![Resultado do Sorteio](screenshots/resultado-sorteio.png)
 
 ---
 
